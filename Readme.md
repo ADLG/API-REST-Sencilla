@@ -2,6 +2,10 @@ En este repositorio se encuentra el Desarrollo de una API REST sencilla usando o
 -
 ## ***API REST en Spring Boot***
 
+<div>
+	<img src="https://raw.githubusercontent.com/ADLG/API-REST-Sencilla-Spring-Boot/main/API%20REST%208080.png">
+</div>
+
 ### Especificaciones:
 
 Project - Maven
