@@ -8,11 +8,11 @@ En este repositorio se encuentra el Desarrollo de una API REST sencilla usando o
 
 ### Especificaciones:
 
-Project - Maven
-Language - Java
-Spring Boot - 3.2.3
-Packaging - Jar
-Java - 17
+Project - Maven <br>
+Language - Java <br>
+Spring Boot - 3.2.3 <br>
+Packaging - Jar <br>
+Java - 17 <br>
 
 Dependencias:
 * `spring-boot-starter-parent`
